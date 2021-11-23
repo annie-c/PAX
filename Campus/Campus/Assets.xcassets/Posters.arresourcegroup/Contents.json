@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "exit.arreferenceimage"
+    },
+    {
+      "filename" : "hunt.arreferenceimage"
+    },
+    {
+      "filename" : "icecream.arreferenceimage"
+    },
+    {
+      "filename" : "kickboxing.arreferenceimage"
+    },
+    {
+      "filename" : "study.arreferenceimage"
+    },
+    {
+      "filename" : "yoga.arreferenceimage"
+    }
+  ]
+}
